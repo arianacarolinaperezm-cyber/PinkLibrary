@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.PinkLibrary" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/rosa_principal</item>
+        <item name="colorPrimaryDark">@color/rosa_principal</item>
+        <item name="colorAccent">@color/rosa_principal</item>
+        <item name="android:statusBarColor">@color/rosa_principal</item>
+        <item name="android:windowBackground">@color/fondo_crema</item>
+    </style>
+
+</resources>
